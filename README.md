@@ -1,6 +1,6 @@
 # Scroll Reveal
 
-# ![preview](src/assets/screenshot.png)
+# ![preview](src/assets/screenshot1.png)
 
 Shows the page content based on scroll position.
 
