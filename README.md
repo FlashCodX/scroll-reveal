@@ -12,8 +12,6 @@ Shows the page content based on scroll position.
 - [Vs Code] - A multi language code editor.
 - CSS Grid
 - CSS Flex
-- API
-- Font Awesome
 - Scroll Reveal React Lib
 
 ## License
