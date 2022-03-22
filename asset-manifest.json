@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scroll-reveal/static/css/main.79626297.css",
+    "main.js": "/scroll-reveal/static/js/main.d33882b4.js",
+    "index.html": "/scroll-reveal/index.html",
+    "main.79626297.css.map": "/scroll-reveal/static/css/main.79626297.css.map",
+    "main.d33882b4.js.map": "/scroll-reveal/static/js/main.d33882b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79626297.css",
+    "static/js/main.d33882b4.js"
+  ]
+}
